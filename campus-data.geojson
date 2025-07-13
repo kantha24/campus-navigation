@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [77.5821589, 12.9737905],
+                    [77.5822917, 12.9738984],
+                    [77.5826555, 12.9741664],
+                    [77.5829925, 12.9744326],
+                    [77.5832069, 12.9745868],
+                    [77.5833891, 12.9747175],
+                    [77.5835392, 12.9748133],
+                    [77.5837984, 12.9750102]
+                ]
+            },
+            "properties": {
+                "name": "Library to Chemistry Path",
+                "type": "path",
+                "pathType": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5821589, 12.9737905]
+            },
+            "properties": {
+                "name": "Library (Point A)",
+                "type": "building",
+                "marker-symbol": "library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [77.5837984, 12.9750102]
+            },
+            "properties": {
+                "name": "Chemistry Department (Point H)",
+                "type": "building",
+                "marker-symbol": "college"
+            }
+        }
+    ]
+} 

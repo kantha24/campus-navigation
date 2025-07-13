@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.58485707612277, 12.97498642824273, 947.0621853180038]
+      },
+      "properties": {
+        "name": "stone building gate entry",
+        "type": "entry",
+        "icon": "https://earth.google.com/earth/document/icon?color=d32f2f&id=2000&scale=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.58421576544444, 12.97464001123279, 949.0244185473457]
+      },
+      "properties": {
+        "name": "front main gate 1",
+        "type": "entry",
+        "icon": "https://earth.google.com/earth/document/icon?color=d32f2f&id=2000&scale=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.58485707612277, 12.97498642824273],
+          [77.58480987171077, 12.97513856810062],
+          [77.5847873989992, 12.97510292100558],
+          [77.58465518662959, 12.97506310395767],
+          [77.58456258008543, 12.97515658548423]
+        ]
+      },
+      "properties": {
+        "name": "Stone Building to Maths Path",
+        "type": "path",
+        "pathType": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.58421576544444, 12.97464001123279],
+          [77.58410527839978, 12.97483068685744],
+          [77.58408736605591, 12.97478283337957],
+          [77.5842865568191, 12.97496087453028]
+        ]
+      },
+      "properties": {
+        "name": "Main Gate to CS Path",
+        "type": "path",
+        "pathType": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.58387585698928, 12.9751220215387],
+          [77.58379843237039, 12.97501022143813],
+          [77.58353917797854, 12.97481331031835],
+          [77.58338906708576, 12.974717470507],
+          [77.5832068993069, 12.97458679195952],
+          [77.58299247645363, 12.97443256571743]
+        ]
+      },
+      "properties": {
+        "name": "Main Straight Path",
+        "type": "path",
+        "pathType": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.58287482440406, 12.97437802890525],
+          [77.58278755931407, 12.97438155994692],
+          [77.58266664670526, 12.974324023628],
+          [77.58237914790585, 12.97458967660542]
+        ]
+      },
+      "properties": {
+        "name": "PK Block Exit Path",
+        "type": "path",
+        "pathType": "secondary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.5821589, 12.9737905],
+          [77.5822917, 12.9738984],
+          [77.5826555, 12.9741664],
+          [77.5829925, 12.9744326],
+          [77.5832069, 12.9745868],
+          [77.5833891, 12.9747175],
+          [77.5835392, 12.9748133],
+          [77.5837984, 12.9750102]
+        ]
+      },
+      "properties": {
+        "name": "Library to Chemistry Path",
+        "type": "path",
+        "pathType": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5821589, 12.9737905]
+      },
+      "properties": {
+        "name": "Library",
+        "type": "building",
+        "marker-symbol": "library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5837984, 12.9750102]
+      },
+      "properties": {
+        "name": "Chemistry Department",
+        "type": "building",
+        "marker-symbol": "college"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.58382642832794, 12.97521540431162],
+          [77.5843637147655, 12.97564597979202],
+          [77.58340026194547, 12.9755846476999],
+          [77.58335644756033, 12.97569738680369]
+        ]
+      },
+      "properties": {
+        "name": "Path to Auditorium",
+        "type": "path",
+        "pathType": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.5821589, 12.9737905],
+          [77.5822917, 12.9738984]
+        ]
+      },
+      "properties": {
+        "name": "Library Path Segment 1",
+        "type": "path",
+        "pathType": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5821589, 12.9737905]
+      },
+      "properties": {
+        "name": "Point A - Library",
+        "type": "marker",
+        "marker-symbol": "A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5837984, 12.9750102]
+      },
+      "properties": {
+        "name": "Point H - Chemistry",
+        "type": "marker",
+        "marker-symbol": "H"
+      }
+    }
+  ]
+} 
