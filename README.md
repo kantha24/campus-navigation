@@ -33,7 +33,7 @@ You need a modern web browser to run this application. No specific server-side s
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository_url>
+    git clone <[repository_url](https://github.com/kantha24/campus-navigation)>
     ```
 2.  **Navigate to the project directory**:
     ```bash
